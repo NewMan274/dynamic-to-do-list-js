@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
       // Clear the input field
       taskList.value = " ";
-      }
+    }
   }
   
   // Step 3: Add click event to the 'Add Task' button
